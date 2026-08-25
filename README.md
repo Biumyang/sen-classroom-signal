@@ -2,6 +2,8 @@
 
 一个让学生低调表达课堂需要、让教师及时看见班级整体趋势的双端交互原型。
 
+[公开体验](https://biumyang.github.io/sen-classroom-signal/)
+
 ![轻声产品预览](public/og.png)
 
 ## 为什么做这个原型
